@@ -1,3 +1,7 @@
+![login-img](https://user-images.githubusercontent.com/95901427/151910370-5d4cf978-af55-48de-934a-c563e2405935.png)
+
+
+
 <h1>Projeto de uma Lista de Afazeres criado para uma entrevista técnica.</h1>
 
 *Informações Úteis*
