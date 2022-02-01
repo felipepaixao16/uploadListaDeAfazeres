@@ -31,6 +31,7 @@ pela figura de um lápis.
 
 <p>Botão: "Excluir" - permite você excluir uma tarefa, esse botão é encontrado quando você clica sobre uma 
 tarefa, e é representado pela figura de um balde de lixo.</p>
+
 ![lista2](https://user-images.githubusercontent.com/95901427/151910410-e8b87e03-db3f-43d9-9cca-1e36b184f4e7.png)
 
 Considerações finais:
