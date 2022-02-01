@@ -1,6 +1,10 @@
 ![login-img](https://user-images.githubusercontent.com/95901427/151910370-5d4cf978-af55-48de-934a-c563e2405935.png)
 
+![login2-img](https://user-images.githubusercontent.com/95901427/151910402-f6152419-3d51-4a9c-acf9-a22cc63c1662.png)
 
+![lista2](https://user-images.githubusercontent.com/95901427/151910410-e8b87e03-db3f-43d9-9cca-1e36b184f4e7.png)
+![lista-img](https://user-images.githubusercontent.com/95901427/151910428-f63eb31b-d3f7-40fc-a7fe-12ec134a796c.png)
+![listafiltro](https://user-images.githubusercontent.com/95901427/151910472-3422506f-7cdc-4e51-b3a4-575f5bd79bca.png)
 
 <h1>Projeto de uma Lista de Afazeres criado para uma entrevista técnica.</h1>
 
