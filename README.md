@@ -7,6 +7,9 @@
 * Você será redirecionado a uma página de autenticação e deverá fornecer o login e senha mencionado abaixo:
 - Login: falqon
 - Senha: 123456asd
+
+*Ou pelo site: "Você receberá uma mensagem informando não ter permissão para acessar, clique em "ok", e faça o login.
+https://felipepaixao16.github.io/uploadListaDeAfazeres/
 - ![login-img](https://user-images.githubusercontent.com/95901427/151910370-5d4cf978-af55-48de-934a-c563e2405935.png)
 
 <h2>A lista de Tarefas possui um visual bastante amplo e funcionalidades de úteis, como:</h2>
