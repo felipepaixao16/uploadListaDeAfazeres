@@ -22,8 +22,8 @@ cima, através dele o usuário consegue com mais facilidade chegar ao topo da p�
 
 <p>Botão: "Sair" - permite você encerrar sua sessão de uso a Lista de Tarefas.</p>
 
-![lista-img](https://user-images.githubusercontent.com/95901427/151910428-f63eb31b-d3f7-40fc-a7fe-12ec134a796c.png)
 ![login2-img](https://user-images.githubusercontent.com/95901427/151910402-f6152419-3d51-4a9c-acf9-a22cc63c1662.png)
+![lista-img](https://user-images.githubusercontent.com/95901427/151910428-f63eb31b-d3f7-40fc-a7fe-12ec134a796c.png)
 ![listafiltro](https://user-images.githubusercontent.com/95901427/151910472-3422506f-7cdc-4e51-b3a4-575f5bd79bca.png)
 
 <p>Botão: "Editar" - você pode acessá-lo ao clicar em cima da tarefa que deseja editar, ele é representado 
