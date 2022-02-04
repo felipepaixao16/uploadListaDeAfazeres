@@ -1,4 +1,4 @@
-<h1>Projeto de uma Lista de Afazeres criado para uma entrevista técnica.</h1>
+<h1>Projeto de uma Lista de Afazeres.</h1>
 
 *Informações Úteis*
 
